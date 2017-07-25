@@ -40,12 +40,11 @@
         "sitemap-general",
         "anchor-navigation-ex",
         "favicon",
-        "todo",
-        "collapsible-menu"
+        "todo"
     ],
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": false
+            "showLevel": true
         },
         "disqus": {
             "shortName": "oshinobu"
