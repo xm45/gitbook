@@ -7,7 +7,7 @@
     "gitbook": "3.2.2",
     "root": ".",
     "plugins": [
-        "-lunr",
+        "-lunr",    
         "-search",
         "-highlight",
         "-livereload",
