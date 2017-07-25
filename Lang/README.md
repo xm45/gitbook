@@ -4,4 +4,4 @@
 
 ## 蕴含语言
 
-* [C++](编程语言与框架/C++/README.md)
+* [C++](Lang/C++/README.md)
