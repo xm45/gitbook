@@ -110,7 +110,11 @@
             "prefix": "https://xm45.gitbooks.io/coding/content/"
         },
         "anchor-navigation-ex": {
-            "showLevel": false
+            "showLevel": false,
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
         },
         "sectionx": {
             "tag": "b"
