@@ -35,7 +35,8 @@
         "sitemap-general",
         "anchor-navigation-ex",
         "favicon",
-        "todo"
+        "todo",
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "theme-default": {
