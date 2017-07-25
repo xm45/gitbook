@@ -6,6 +6,11 @@
     "language": "zh-hans",
     "gitbook": "3.2.2",
     "root": ".",
+    "links" : {
+        "sidebar" : {
+            "Home" : "http://oshinobu.com"
+        }
+    },
     "plugins": [
         "-lunr",
         "-search",
