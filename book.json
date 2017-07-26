@@ -33,6 +33,7 @@
         "splitter",
         "mermaid",
         "tbfed-pagefooter",
+        "toggle-chapters",
         "expandable-chapters-small",
         "sectionx",
         "donate",
@@ -40,7 +41,8 @@
         "sitemap-general",
         "anchor-navigation-ex@0.1.8",
         "favicon",
-        "todo"
+        "todo",
+        "ga"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -121,6 +123,9 @@
         "favicon": {
             "shortcut": "http://oshinobu.com/resource/image/pixiv46184975.png",
             "bookmark": "http://oshinobu.com/resource/image/pixiv46184975.png"
+        },
+        "ga": {
+            "token": "UA-103297900-1"
         }
     }
 }
