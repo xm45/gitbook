@@ -2,13 +2,20 @@
 
 ## Meta
 
-* [Meta](meta.md)
 * [前言](README.md)
 * [目录](SUMMARY.md)
-* 开发工具
-  * Vim
-  * [Git](Meta/git.md)
-  * [gitbook](Meta/gitbook-use.md)
+* [词典](GLOSSARY.md)
+* [Meta](Meta/meta.md)
+
+## 发现
+
+* [发现](explore/fa-xian.md)
+* [方法论](explore/fang-fa-lun.md)
+* [生产力工具](explore/sheng-chan-li-gong-ju.md)
+* [开发工具](explore/kai-fa-gong-ju.md)
+  * [Vim](explore/kai-fa-gong-ju/vim.md)
+  * Git
+  * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
   * Shell
 
 ## 编程
