@@ -1,5 +1,5 @@
 {
-    "title": "Oshinobu",
+    "title": "Book",
     "description": "放一些整理好知识文档",
     "author": "mu.xiong",
     "output.name": "site",
@@ -8,7 +8,6 @@
     "root": ".",
     "links" : {
         "sidebar" : {
-            "Home" : "http://oshinobu.com"
         }
     },
     "plugins": [
