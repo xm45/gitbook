@@ -7,8 +7,7 @@
     "gitbook": "3.2.2",
     "root": ".",
     "links" : {
-        "sidebar" : {
-        }
+        "sidebar" : false
     },
     "plugins": [
         "-lunr",
