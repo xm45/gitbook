@@ -11,6 +11,7 @@
 
 * [发现](explore/fa-xian.md)
 * [方法论](explore/fang-fa-lun.md)
+  * [如何读论文](explore/fang-fa-lun/ru-he-du-lun-wen.md)
 * [生产力工具](explore/sheng-chan-li-gong-ju.md)
 * [开发工具](explore/kai-fa-gong-ju.md)
   * [Vim](explore/kai-fa-gong-ju/vim.md)
