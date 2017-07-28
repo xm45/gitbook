@@ -42,6 +42,7 @@
 * [C++](Lang/c++.md)
   * [C++11](Lang/c++/c++11.md)
     * [值类型](Lang/c++/c++11/zhi-lei-xing.md)
+    * [lambda](Lang/c++/c++11/lambda.md)
 * [JavaScript](Lang/javascript.md)
   * Angular
   * Node
