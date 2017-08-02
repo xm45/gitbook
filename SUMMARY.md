@@ -18,7 +18,7 @@
   * [Vim](explore/kai-fa-gong-ju/vim.md)
   * Git
   * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
-  * Shell
+  * [Shell](explore/kai-fa-gong-ju/shell.md)
 
 ## 编程
 
