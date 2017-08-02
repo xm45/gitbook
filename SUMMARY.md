@@ -15,10 +15,15 @@
   * [编写可读代码的艺术](explore/fang-fa-lun/bian-xie-ke-du-dai-ma-de-yi-zhu.md)
 * [生产力工具](explore/sheng-chan-li-gong-ju.md)
 * [开发工具](explore/kai-fa-gong-ju.md)
-  * [Vim](explore/kai-fa-gong-ju/vim.md)
-  * [Git](explore/kai-fa-gong-ju/git.md)
+  * [vim](explore/kai-fa-gong-ju/vim.md)
+  * [git](explore/kai-fa-gong-ju/git.md)
+    * [git基本功能](explore/kai-fa-gong-ju/git/git-basics.md)
+    * git协作开发
+    * [git工具](explore/kai-fa-gong-ju/git/gitgong-ju.md)
+    * [git实现](explore/kai-fa-gong-ju/git/gitshi-xian.md)
+    * git配置
   * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
-  * [Shell](explore/kai-fa-gong-ju/shell.md)
+  * [shell](explore/kai-fa-gong-ju/shell.md)
 * 产品
 
 ## 编程
@@ -43,7 +48,7 @@
 * 语言论
 * [C++](Lang/c++.md)
   * [C++11](Lang/c++/c++11.md)
-    * [值类型](Lang/c++/c++11/zhi-lei-xing.md)
+    * [值类别](Lang/c++/c++11/zhi-lei-bie.md)
     * [lambda](Lang/c++/c++11/lambda.md)
 * [JavaScript](Lang/javascript.md)
   * Angular
