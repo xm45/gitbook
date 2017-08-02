@@ -16,7 +16,7 @@
 * [生产力工具](explore/sheng-chan-li-gong-ju.md)
 * [开发工具](explore/kai-fa-gong-ju.md)
   * [Vim](explore/kai-fa-gong-ju/vim.md)
-  * Git
+  * [Git](explore/kai-fa-gong-ju/git.md)
   * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
   * [Shell](explore/kai-fa-gong-ju/shell.md)
 * 产品
