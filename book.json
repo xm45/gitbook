@@ -1,0 +1,128 @@
+{
+    "title": "Book",
+    "description": "放一些整理好知识文档",
+    "author": "mu.xiong",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.2",
+    "root": ".",
+    "links" : {
+        "sidebar" : false
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-highlight",
+        "-livereload",
+        "search-plus",
+        "simple-page-toc",
+        "github",
+        "github-buttons",
+        "edit-link",
+        "disqus",
+        "prism",
+        "prism-themes",
+        "advanced-emoji",
+        "anchors",
+        "include-codeblock",
+        "ace",
+        "emphasize",
+        "katex",
+        "splitter",
+        "mermaid",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "sectionx",
+        "donate",
+        "local-video",
+        "sitemap-general",
+        "anchor-navigation-ex@0.1.8",
+        "favicon",
+        "todo",
+        "ga"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "disqus": {
+            "shortName": "oshinobu"
+        },
+        "prism": {
+            "css": [
+                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/xm45/gitbook"
+        },
+        "github-buttons": {
+            "repo": "xm45/gitbook",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "edit": true
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © oshinobu.com 2017",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "http://oshinobu.com/resource/image/weixin.png",
+            "alipay": "http://oshinobu.com/resource/image/alipay.jpg",
+            "title": "",
+            "button": "送钱",
+            "alipayText": "",
+            "wechatText": ""
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "expandable-chapters":{},
+        "edit-link": {
+            "base": "https://github.com/xm45/gitbook/edit/master",
+            "label": "Edit This Page"
+        },
+        "sitemap-general": {
+            "prefix": "https://xm45.gitbooks.io/coding/content/"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "favicon": {
+            "shortcut": "http://oshinobu.com/resource/image/pixiv46184975.png",
+            "bookmark": "http://oshinobu.com/resource/image/pixiv46184975.png"
+        },
+        "ga": {
+            "token": "UA-103297900-1"
+        }
+    }
+}
