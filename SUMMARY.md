@@ -31,6 +31,7 @@
 * [软件工程](bian-cheng/ruan-jian-gong-cheng.md)
   * [设计模式](bian-cheng/ruan-jian-gong-cheng/she-ji-mo-shi.md)
   * [软件测试](bian-cheng/ruan-jian-gong-cheng/ruan-jian-ce-shi.md)
+  * [语义化版本](bian-cheng/ruan-jian-gong-cheng/yu-yi-hua-ban-ben.md)
 * [算法](bian-cheng/suan-fa.md)
   * 可计算理论
   * [数据结构](bian-cheng/shu-ju-jie-gou.md)
