@@ -22,7 +22,7 @@
     * git协作开发
     * [git工具](explore/kai-fa-gong-ju/git/gitgong-ju.md)
     * [git实现](explore/kai-fa-gong-ju/git/gitshi-xian.md)
-    * git配置
+    * [git配置](explore/kai-fa-gong-ju/git/gitpei-zhi.md)
   * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
   * [shell](explore/kai-fa-gong-ju/shell.md)
 * 产品
