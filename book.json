@@ -39,7 +39,8 @@
         "anchor-navigation-ex@0.1.8",
         "favicon",
         "todo",
-        "ga"
+        "ga",
+        "tags"
     ],
     "pluginsConfig": {
         "theme-default": {
