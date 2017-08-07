@@ -6,6 +6,7 @@
 * [目录](SUMMARY.md)
 * [词典](GLOSSARY.md)
 * [Meta](Meta/meta.md)
+* [Tags](tags.md)
 
 ## 发现
 
