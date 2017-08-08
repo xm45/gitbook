@@ -19,12 +19,13 @@
   * [vim](explore/kai-fa-gong-ju/vim.md)
   * [git](explore/kai-fa-gong-ju/git.md)
     * [git基本功能](explore/kai-fa-gong-ju/git/git-basics.md)
-    * git协作开发
-    * [git工具](explore/kai-fa-gong-ju/git/gitgong-ju.md)
-    * [git实现](explore/kai-fa-gong-ju/git/gitshi-xian.md)
-    * [git配置](explore/kai-fa-gong-ju/git/gitpei-zhi.md)
+    * [git协作开发](explore/kai-fa-gong-ju/git/git-distributed-work.md)
+    * [git工具](explore/kai-fa-gong-ju/git/git-tool.md)
+    * [git实现](explore/kai-fa-gong-ju/git/git-implement.md)
+    * [git配置](explore/kai-fa-gong-ju/git/git-config.md)
   * [gitbook](explore/kai-fa-gong-ju/gitbook.md)
   * [shell](explore/kai-fa-gong-ju/shell.md)
+    * [工具命令列表](explore/kai-fa-gong-ju/shell/adhoc-command-list.md)
 * 产品
 
 ## 编程
