@@ -42,14 +42,14 @@
 
 ## 编程语言与框架
 
-* 语言论
+* [语言论](Lang/Language-Theory.md)
 * [C++](Lang/C++.md)
   * [C++11](Lang/C++/C++11.md)
     * [值类别](Lang/C++/C++11/value-category.md)
     * [lambda](Lang/C++/C++11/cpp-lambda.md)
 * [JavaScript](Lang/Javascript.md)
-  * Angular
-  * Node
+  * [Angular](Lang/Javascript/angular.md)
+  * [Node](Lang/Javascript/node.md)
 * [Python](Lang/Python.md)
 * [PHP](Lang/PHP.md)
 * [Java](Lang/Java.md)
@@ -81,7 +81,4 @@
 * [词典](GLOSSARY.md)
 * [Meta](Meta/meta.md)
 * [Tags](tags.md)
-
-
-
 
