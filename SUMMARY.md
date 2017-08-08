@@ -1,13 +1,5 @@
 # Summary
 
-## Meta
-
-* [前言](README.md)
-* [目录](SUMMARY.md)
-* [词典](GLOSSARY.md)
-* [Meta](Meta/meta.md)
-* [Tags](tags.md)
-
 ## 发现
 
 * [发现](Explore/Explore-World.md)
@@ -81,6 +73,15 @@
 * [泛函分析](Mathematics/Functional-Analysis.md)
 * [集合论](Mathematics/Set-Theory.md)
 * [线性规划](Mathematics/Linear-Programming.md)
+
+## Meta
+
+* [前言](README.md)
+* [目录](SUMMARY.md)
+* [词典](GLOSSARY.md)
+* [Meta](Meta/meta.md)
+* [Tags](tags.md)
+
 
 
 
