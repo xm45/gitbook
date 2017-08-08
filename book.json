@@ -14,6 +14,7 @@
         "-search",
         "-highlight",
         "-livereload",
+        "tags",
         "search-plus",
         "simple-page-toc",
         "github",
@@ -39,8 +40,7 @@
         "anchor-navigation-ex@0.1.8",
         "favicon",
         "todo",
-        "ga",
-        "tags"
+        "ga"
     ],
     "pluginsConfig": {
         "theme-default": {
