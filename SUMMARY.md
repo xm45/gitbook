@@ -20,7 +20,7 @@
     * [gitbook使用](Explore/Development-Tool/gitbook/gitbook-use.md)
   * [shell](Explore/Development-Tool/shell.md)
     * [工具命令列表](Explore/Development-Tool/shell/adhoc-command-list.md)
-* [产品设计](Product-Design)
+* [产品设计](Explore/Product-Design.md)
 
 ## 编程
 

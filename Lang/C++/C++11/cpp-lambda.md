@@ -1,6 +1,7 @@
-# lambda表达式
-
-tags: lambda
+---
+title: lambda in cpp
+tags: ['lambda']
+---
 
 ## 简介
 ## 格式
