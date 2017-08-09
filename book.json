@@ -24,12 +24,10 @@
         "prism",
         "prism-themes",
         "advanced-emoji",
-        "anchors",
         "include-codeblock",
         "ace",
         "emphasize",
         "katex",
-        "sitemap",
         "splitter",
         "mermaid",
         "tbfed-pagefooter",
@@ -120,8 +118,8 @@
             "tag": "b"
         },
         "favicon": {
-            "shortcut": "http://oshinobu.com/resource/image/pixiv46184975.png",
-            "bookmark": "http://oshinobu.com/resource/image/pixiv46184975.png"
+            "shortcut": "assets/favicon.ico",
+            "bookmark": "assets/favicon.ico"
         },
         "ga": {
             "token": "UA-103297900-1"
