@@ -1,7 +1,7 @@
 ---
-title: lambda in cpp
 tags: ['lambda']
 ---
+# Lambda in CPP
 
 ## 简介
 ## 格式
