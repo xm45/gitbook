@@ -1,4 +1,4 @@
-{
+    {
     "title": "Book",
     "description": "放一些整理好知识文档",
     "author": "mu.xiong",
@@ -36,7 +36,7 @@
         "donate",
         "local-video",
         "sitemap-general",
-        "anchor-navigation-ex@0.1.8",
+        "anchor-navigation-ex",
         "favicon",
         "todo",
         "ga"
@@ -109,10 +109,11 @@
             "prefix": "https://xm45.gitbooks.io/coding/content/"
         },
         "anchor-navigation-ex": {
-            "isRewritePageTitle": false,
-            "tocLevel1Icon": "fa fa-hand-o-right",
-            "tocLevel2Icon": "fa fa-hand-o-right",
-            "tocLevel3Icon": "fa fa-hand-o-right"
+            "showLevel": false,
+            "associatedWithSummary": false,
+            "printLog": false,
+            "multipleH1": false,
+            "mode": "float",
         },
         "sectionx": {
             "tag": "b"
