@@ -45,6 +45,9 @@
         "theme-default": {
             "showLevel": false
         },
+        "tags": {
+            "placement": "bottom"
+        },
         "disqus": {
             "shortName": "oshinobu"
         },
