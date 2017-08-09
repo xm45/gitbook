@@ -26,3 +26,5 @@ tags: ['命令手册']
 建立一个新的分支newbranch，指明了该分支到commit hashB
 `git rebase --ontomaster hashA`
 将从hashA到hashB的commit都提交到master分支
+
+---
