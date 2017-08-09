@@ -1,6 +1,6 @@
 /* CSS for website */
 h1 , h2{
-    border-bottom: 1px solid #EFEAEA;
+    /*border-bottom: 1px solid #EFEAEA; */
     padding-bottom: 3px;
 }
 .markdown-section>:first-child {
@@ -41,7 +41,7 @@ pre[class*="language-"] {
 }
 
 .aceCode {
-  font-size: 14px !important;
+    font-size: 14px !important;
 }
 
 input[type=checkbox]{
