@@ -14,6 +14,10 @@ h1 , h2{
     margin-bottom: 30px;
 }
 
+.page-footer {
+    margin-top: 1.7em !important;
+}
+
 .book .book-body .page-wrapper .page-inner section.normal hr {
     height: 0px;
     padding: 0;
