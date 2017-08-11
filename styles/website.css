@@ -58,3 +58,7 @@ input[type=checkbox]{
     margin-top: 1.7em;
     width: 100%;
 }
+
+.tags > .comments-section {
+    margin-bottom:0;
+}
