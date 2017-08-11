@@ -54,10 +54,7 @@ input[type=checkbox]{
 
 .tags {
     border-top: 1px solid #ccc;
-    padding: 1.7em 0;
+    padding-top: 1.7em;
     margin-top: 1.7em;
     width: 100%;
-}
-.tags > .comments-section{
-    margin-bottom: 0;
 }
