@@ -34,11 +34,11 @@ $0、$1、$2、$3 和 $4 命令用作在 Elements 面板中检查的最后五个
 
 注：如果您在使用库，例如，使用 $ 的 jQuery，则此功能将被覆盖， $ 将与该库的实现对应。
 
-### $\$(selector)
+### $\$\(selector\)
 
-`$\$(selector)` 返回与给定 CSS 选择器匹配的元素数组。此命令等同于调用 document.querySelectorAll\(\)。
+<code>$\$(selector)</code> 返回与给定 CSS 选择器匹配的元素数组。此命令等同于调用 `document.querySelectorAll\(\)`。
 
-以下示例使用 `$$()` 在当前文档中创建一个所有 `<img>` 元素的数组，并显示每个元素的 src 属性值：
+以下示例使用 <code>$\$()</code> 在当前文档中创建一个所有 `<img>` 元素的数组，并显示每个元素的 src 属性值：
 
 ```javascript
     var images = $$('img');
@@ -132,7 +132,9 @@ getEventListeners(document);
 
 ### keys\(object\)
 
-`keys(object)` 返回一个包含属于指定对象的属性名称的数组。如需获取相同属性的关联值，请使用 `values()`。
+`keys(object)` 返回一个包含属于指定对象的属性名称的数组。
+
+如需获取相同属性的关联值，请使用 `values()`。
 
 ### monitor\(function\)
 
@@ -144,34 +146,28 @@ getEventListeners(document);
 
 当在指定对象上发生一个指定事件时，将 Event 对象记录到控制台。您可以指定一个要监控的单独事件、一个事件数组或一个映射到预定义事件集合的常规事件“类型”。请参阅以下示例。
 
-1. 以下命令监控 `window` 对象上的所有 resize 事件。
+以下命令监控 `window` 对象上的所有 resize 事件。
 
    monitorEvents\(window, "resize"\);
 
-2. 下面定义一个在 `window` 对象上同时监控“resize”和“scroll”事件的数组：
+下面定义一个在 `window` 对象上同时监控“resize”和“scroll”事件的数组：
 
    monitorEvents\(window, \["resize", "scroll"\]\)
 
 您还可以指定一个可用的事件“类型”、映射到预定义事件集的字符串。下表列出了可用的事件类型及其相关的事件映射：
 
-## 事件类型和对应的已映射事件
-
+事件类型 | 对应的已映射事件
 ------
-
-mouse \|    "mousedown", "mouseup", "click", "dblclick", "mousemove", "mouseover", "mouseout", "mousewheel"  
-key \|    "keydown", "keyup", "keypress", "textInput"  
-touch \|    "touchstart", "touchmove", "touchend", "touchcancel"  
-control \|    "resize", "scroll", "zoom", "focus", "blur", "select", "change", "submit", "reset"
+mouse |    "mousedown", "mouseup", "click", "dblclick", "mousemove", "mouseover", "mouseout", "mousewheel"  
+key |    "keydown", "keyup", "keypress", "textInput"  
+touch |    "touchstart", "touchmove", "touchend", "touchcancel"  
+control |    "resize", "scroll", "zoom", "focus", "blur", "select", "change", "submit", "reset"
 
 例如，以下示例为 Elements 面板上当前选择的输入文本字段上的所有对应 key 事件使用使用“key”事件类型。
 
 ```
 monitorEvents($0, "key");
 ```
-
-下面是在文本字段中输入字符后的一个输出示例：
-
-监控关键事件
 
 ### profile\(\[name\]\) and profileEnd\(\[name\]\)
 
@@ -198,12 +194,9 @@ profileEnd('A');
 profileEnd('B');
 ```
 
-“profiles”面板中的结果
-
-分组的个人资料
-
 注：一次可运行多个 CPU 配置文件，不需要您按创建顺序结束它们。  
-table\(data\[, columns\]\)
+
+### table\(data\[, columns\]\)
 
 通过传入含可选列标题的数据对象记录具有表格格式的对象数据。例如，要在控制台中显示使用 table 的名称列表，您需要执行：
 
@@ -215,17 +208,17 @@ var names = {
 table(names);
 ```
 
-table\(\) 方法的示例
-
 ### undebug\(function\)
 
-undebug\(function\) 可停止调试指定函数，以便在调用函数时，不再调用调试程序。
+`undebug\(function\)` 可停止调试指定函数，以便在调用函数时，不再调用调试程序。
 
+```
 undebug\(getData\);
+```
 
-unmonitor\(function\)
+### unmonitor\(function\)
 
-unmonitor\(function\) 可停止监控指定函数。它可与 monitor\(fn\) 结合使用。
+`unmonitor\(function\)` 可停止监控指定函数。它可与 `monitor\(fn\)` 结合使用。
 
 ```
 unmonitor(getData);
@@ -239,7 +232,9 @@ unmonitorEvents\(object\[, events\]\) 可停止针对指定对象和事件的事
 unmonitorEvents(window);
 ```
 
-您也可以有选择性地停止监控某个对象上的特定事件。例如，以下代码可开始对当前所选元素上所有鼠标事件的监控，然后停止监控“mousemove”事件（可能会减少控制台输出的噪音）：
+您也可以有选择性地停止监控某个对象上的特定事件。
+
+例如，以下代码可开始对当前所选元素上所有鼠标事件的监控，然后停止监控“mousemove”事件（可能会减少控制台输出的噪音）：
 
 ```
 monitorEvents($0, "mouse");
