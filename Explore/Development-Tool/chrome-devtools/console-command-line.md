@@ -1,10 +1,6 @@
--
---
-tags:
-- 命令手册
-- NeedWork
 ---
-
+tags: ['命令手册']
+---
 # Command Line API
 
 ## 简介
@@ -160,7 +156,7 @@ monitorEvents(window, ["resize", "scroll"])
 下表列出了可用的事件类型及其相关的事件映射：
 
 事件类型 | 对应的已映射事件
----:|:---
+:--- | :---
 mouse | "mousedown", "mouseup", "click", "dblclick", "mousemove", "mouseover","mouseout", "mousewheel"
 key | "keydown", "keyup", "keypress", "textInput"
 touch | "touchstart", "touchmove", "touchend", "touchcancel"
@@ -251,7 +247,4 @@ values(object) 返回一个包含属于指定对象的所有属性值的数组�
 ```
 values(object);
 ```
-
-
-
-
+---
