@@ -27,4 +27,3 @@ tags: ['命令手册']
 `git rebase --ontomaster hashA`
 将从hashA到hashB的commit都提交到master分支
 
----

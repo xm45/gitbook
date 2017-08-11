@@ -7,4 +7,3 @@ tags: ['NeedWork']
 
 * CSP, Content Security Policy
 
----

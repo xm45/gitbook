@@ -51,3 +51,9 @@ pre[class*="language-"] {
 input[type=checkbox]{
     margin-left: -2em;
 }
+
+.tags {
+    border-top: 1px solid #ccc;
+    padding: 1.7em 0;
+    margin-top: 1.7em;
+}

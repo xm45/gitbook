@@ -20,8 +20,8 @@
     * [gitbook使用](Explore/Development-Tool/gitbook/gitbook-use.md)
   * [shell](Explore/Development-Tool/shell.md)
     * [工具命令列表](Explore/Development-Tool/shell/adhoc-command-list.md)
-  * [Chrome-DevTools](Explore/Development-Tool/chrome-devtools.md)
-    * [Console-Command-Line](Explore/Development-Tool/chrome-devtools/console-command-line.md)
+  * [chrome开发](Explore/Development-Tool/chrome-devtools.md)
+    * [控制台命令API](Explore/Development-Tool/chrome-devtools/console-command-line.md)
 * [产品设计](Explore/Product-Design.md)
 
 ## 编程
