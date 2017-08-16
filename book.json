@@ -27,7 +27,7 @@
         "include-codeblock",
         "ace",
         "emphasize",
-        "katex@^0.7.1",
+        "katex@^1.1.3",
         "splitter",
         "mermaid",
         "tbfed-pagefooter",
