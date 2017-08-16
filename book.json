@@ -1,4 +1,4 @@
-    {
+        {
     "title": "Book",
     "description": "放一些整理好知识文档",
     "author": "mu.xiong",
@@ -27,7 +27,7 @@
         "include-codeblock",
         "ace",
         "emphasize",
-        "katex",
+        "katex@=0.7.1",
         "splitter",
         "mermaid",
         "tbfed-pagefooter",
