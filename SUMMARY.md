@@ -6,6 +6,7 @@
 * [方法论](Explore/Methodology.md)
   * [如何读论文](Explore/Methodology/How-To-Read-Paper.md)
   * [编写可读代码的艺术](Explore/Methodology/The-Art-of-Readable-Code.md)
+  * [人月神话](Explore/Methodology/mythical-man-month.md)
 * [生产力工具](Explore/Productivity-Tool.md)
 * [开发工具](Explore/Development-Tool.md)
   * [Regex](Explore/Development-Tool/Regular-Expression.md)
