@@ -33,6 +33,7 @@
   * [软件测试](Coding/Software-Engineering/software-test.md)
     * [性能测试](Coding/Software-Engineering/software-test/performance-testing.md)
   * [语义化版本](Coding/Software-Engineering/Semantic-Versioning.md)
+  * [持续集成](Coding/Software-Engineering/continuous-integration.md)
 * [算法](Coding/Algorithm.md)
   * [可计算理论](Coding/Algorithm/computability-theory.md)
   * [数据结构](Coding/Algorithm/data-structure.md)
@@ -70,6 +71,7 @@
 * [iOS](Application-Development/iOS.md)
 * [服务器](Application-Development/Server.md)
 * [数据库](Application-Development/Database.md)
+  * [字符集](Application-Development/Database/character-encoding.md)
 * [运维](Application-Development/Operation.md)
 
 ## 数学
