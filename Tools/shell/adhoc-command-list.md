@@ -62,4 +62,14 @@
         
 ### 检查已经被删掉的临时数据
 `lsof | grep delete`
- 
+
+## 网络
+
+### 查看网卡速率
+
+`mii-tool`
+
+> eth0: negotiated 100baseTx-FD, link ok 100M
+
+上面的结果就是网卡速率100M的意思
+

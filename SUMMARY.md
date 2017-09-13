@@ -26,12 +26,12 @@
 * [chrome开发](Tools/chrome-devtools.md)
   * [控制台命令API](Tools/chrome-devtools/console-command-line.md)
 
-
 ## 编程
 
 * [软件工程](Coding/Software-Engineering.md)
   * [设计模式](Coding/Software-Engineering/design-patterns.md)
   * [软件测试](Coding/Software-Engineering/software-test.md)
+    * [性能测试](Coding/Software-Engineering/software-test/performance-testing.md)
   * [语义化版本](Coding/Software-Engineering/Semantic-Versioning.md)
 * [算法](Coding/Algorithm.md)
   * [可计算理论](Coding/Algorithm/computability-theory.md)
