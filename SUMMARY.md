@@ -45,6 +45,7 @@
 * [编译原理](Coding/Compilers.md)
 * [机器学习](Coding/Machine-Learning.md)
   * [神经网络](Coding/Machine-Learning/Neural-Networks.md)
+* [安全](Coding/Security.md)
 
 ## 编程语言与框架
 
@@ -70,7 +71,6 @@
 * [服务器](Application-Development/Server.md)
 * [数据库](Application-Development/Database.md)
 * [运维](Application-Development/Operation.md)
-* [安全](Application-Development/Security.md)
 
 ## 数学
 

@@ -1,3 +1,7 @@
+---
+tags: ['NeedWork']
+---
+
 # Vim
 
 
@@ -23,3 +27,8 @@
 
 
 
+## 参考
+- https://www.ibm.com/developerworks/cn/linux/l-cn-tip-vim/
+- http://blog.sina.com.cn/s/blog_5ac88b350100an4p.html
+
+---

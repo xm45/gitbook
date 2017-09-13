@@ -73,3 +73,6 @@
 
 上面的结果就是网卡速率100M的意思
 
+
+## 参考
+- http://goodbai.com/secure/WhoMovedYourLinuxOS.html
