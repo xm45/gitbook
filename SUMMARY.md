@@ -44,6 +44,8 @@
 * [体系结构](Coding/Architecture.md)
 * [图形学](Coding/Graphics.md)
 * [编译原理](Coding/Compilers.md)
+* [数据库](Coding/Database.md)
+  * [字符集](Coding/Database/character-encoding.md)
 * [机器学习](Coding/Machine-Learning.md)
   * [神经网络](Coding/Machine-Learning/Neural-Networks.md)
 * [安全](Coding/Security.md)
@@ -70,8 +72,6 @@
 * [Android](Application-Development/Android.md)
 * [iOS](Application-Development/iOS.md)
 * [服务器](Application-Development/Server.md)
-* [数据库](Application-Development/Database.md)
-  * [字符集](Application-Development/Database/character-encoding.md)
 * [运维](Application-Development/Operation.md)
 
 ## 数学
