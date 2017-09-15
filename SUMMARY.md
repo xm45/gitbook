@@ -71,7 +71,9 @@
 * [iOS](Application-Development/iOS.md)
 * [服务器](Application-Development/Server.md)
 * [数据库](Application-Development/Database.md)
+  * [数据库理论](Application-Development/Database/database-theory.md)
   * [字符集](Application-Development/Database/character-encoding.md)
+  * [MySQL](Application-Development/Database/mysql.md)
 * [运维](Application-Development/Operation.md)
 
 ## 数学
